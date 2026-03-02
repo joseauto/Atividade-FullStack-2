@@ -28,7 +28,7 @@ A interface foi construída seguindo os requisitos do projeto:
 * **HTML5:** Estruturação semântica das páginas.
 * **CSS3:** Estilização com variáveis, Flexbox e Media Queries.
 * **Git e GitHub:** Controle de versão e hospedagem do código com commits organizados.
-* **Vercel:** Deploy e hospedagem do site[cite: 11, 15, 63, 64].
+* **Vercel:** Deploy e hospedagem do site.
 
 ## 🌐 Acesso ao Projeto
 O deploy foi realizado no Vercel e o site está disponível publicamente. 
