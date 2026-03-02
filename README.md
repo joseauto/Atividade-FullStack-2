@@ -9,10 +9,10 @@ Este projeto é um mini-site institucional simples, moderno e responsivo, desenv
 **Professor:** Celso Barreto 
 
 ## Objetivo do Projeto
-O objetivo foi criar a presença online rápida e organizada para uma escola ou pequeno negócio fictício [cite: 6, 7][cite_start], aplicando conceitos fundamentais de estruturação web, estilização e versionamento.
+O objetivo foi criar a presença online rápida e organizada para uma escola ou pequeno negócio fictício, aplicando conceitos fundamentais de estruturação web, estilização e versionamento.
 
 ## Funcionalidades e Estrutura
-O site é composto por três páginas principais[cite: 19]:
+O site é composto por três páginas principais:
 * **Home (`index.html`):** Apresentação da escola, chamada para ação (CTA) e cards com os principais benefícios
 * **Sobre (`sobre.html`):** História da TechForge e nossa Missão, Visão e Valores
 * **Contato (`contato.html`):** Formulário de comunicação e links de contato direto (redes sociais, email e telefone)
